@@ -7,8 +7,7 @@ The project has 4 parts. Each one requires implementing one ML algorithm from sc
 **Dataset:** 
 * [Input features](https://drive.google.com/open?id=1kgG9ThiUU7lJAAJPsiQbu4wS9szgWiKA) 
 * [Target value](https://drive.google.com/open?id=1VSjj9Uz0BrJTLIWF8pgq3ywzX6JOsONu) <br />
-**Cost/Error function used:** Least squares 
-Implemented linear regression using batch gradient descent & least squares method and experimented with different learning rates, plotted diff hypothesis function, contours etc.
+**Cost/Error function used:** Least squares. Implemented linear regression using batch gradient descent & least squares method and experimented with different learning rates, plotted diff hypothesis function, contours etc.
 
 ## Locally Weighted Linear Regression
 **Problem Statement:** To implement locally weighted LR  <br />
